@@ -1,10 +1,10 @@
 # Homologous recombination deficiency does not correlate with platinum or PARP inhibitor in vitro sensitivity in a cell line library   
-This page provides processed data and codes to reproduce the main results of the corresponding paper.  
-Other codes for preprocessing data are available from authors upon reasonable request.
+This page provides processed data and codes to reproduce the results of the corresponding paper.  
+Other codes for preprocessing are available from authors upon reasonable request.
 
 ---
 # Analysis environments
-Python 3.8.15
+## Python 3.8.15
 - pandas 1.3.4
 - numpy 1.20.3
 - matplotlib 3.4.3
@@ -14,18 +14,20 @@ Python 3.8.15
 ---
 # Contents
 ## data   
-- data_requirements.txt
+- data requirements
 - manually curated annotation data
+  
 ## processed
 - CCLE data
 - COSMIC-CLP data
 - Drug annotation
 - Drug-response AUC data
+  
 ## scripts
-- Drug_annotation.ipynb
-- Drug_auc_integration.ipynb
-- Analysis.ipynb
+- Drug annotation
+- Drug auc integration
+- Analysis
   
 ---
 # Citations
-Now in paper submission
+Currently under paper submission.
