@@ -1,0 +1,207 @@
+	drug_id	drug_name	synonyms	pathway_name	targets	pubchem	Drug_name_id	drug_anno	drug_name_common
+1	1073	5-Fluorouracil	5-FU	Other	Antimetabolite (DNA & RNA)	3385	GDSC2_5-Fluorouracil_1073	Antimetabolite	GDSC2_5-Fluorouracil_1073
+3	1910	ABT737	-	Apoptosis regulation	BCL2, BCL-XL,  BCL-W, BCL-B, BFL1	11228183	GDSC2_ABT737_1910	Apoptosis regulation	GDSC2_ABT737_1910
+6	1032	Afatinib	BIBW2992, Tovok, Gilotrif	EGFR signaling	EGFR, ERBB2	10184653	GDSC2_Afatinib_1032	EGFR signaling	GDSC2_Afatinib_1032
+7	1912	Afuresertib	GSK2110183, GSK2110183C	PI3K/MTOR signaling	AKT1, AKT2, AKT3	46843057	GDSC2_Afuresertib_1912	PI3K/MTOR signaling	GDSC2_Afuresertib_1912
+8	1913	AGI-5198	IDH-C35	Metabolism	IDH1 (R132H)	56645356	GDSC2_AGI-5198_1913	Metabolism	GDSC2_AGI-5198_1913
+9	1634	AGI-6780	AK162157	Metabolism	IDH2 R140Q mutant	71299339	GDSC2_AGI-6780_1634	Metabolism	GDSC2_AGI-6780_1634
+11	1051	Alisertib	MLN8237	Mitosis	AURKA	24771867	GDSC2_Alisertib_1051	Others	GDSC2_Alisertib_1051
+12	1560	Alpelisib	BYL719, BYL-719, NVP-BYL719	PI3K/MTOR signaling	PI3Kalpha	56649450	GDSC2_Alpelisib_1560	PI3K/MTOR signaling	GDSC2_Alpelisib_1560
+14	2045	AMG-319	AMG319	PI3K/MTOR signaling	PI3K (beta sparing)	68947304	GDSC2_AMG-319_2045	PI3K/MTOR signaling	GDSC2_AMG-319_2045
+17	1072	Avagacestat	BMS-708163, BMS 708163	Other	Amyloid beta20, Amyloid beta40	46883536	GDSC2_Avagacestat_1072	Others	GDSC2_Avagacestat_1072
+18	1021	Axitinib	AG-13736, Inlyta	RTK signaling	PDGFR, KIT, VEGFR	6450551	GDSC2_Axitinib_1021	RTK signaling	GDSC2_Axitinib_1021
+19	2109	AZ6102	-	WNT signaling	TNKS1, TNKS2	91663328	GDSC2_AZ6102_2109	WNT signaling	GDSC2_AZ6102_2109
+20	1250	AZ960	AZ 960, AZ-960	Other, kinases	JAK2, JAK3	25099184	GDSC2_AZ960_1250	Others	GDSC2_AZ960_1250
+24	1915	AZD3759	-	EGFR signaling	EGFR	78209992	GDSC2_AZD3759_1915	EGFR signaling	GDSC2_AZD3759_1915
+25	1786	AZD4547	1035270-39-3	RTK signaling	FGFR1, FGFR2, FGFR3	51039095	GDSC2_AZD4547_1786	RTK signaling	GDSC2_AZD4547_1786
+27	1916	AZD5363	-	Other, kinases	AKT1, AKT2, AKT3, ROCK2	25227436	GDSC2_AZD5363_1916	Others	GDSC2_AZD5363_1916
+29	1617	AZD5582	GTPL7710, AOB5560	Apoptosis regulation	XIAP, cIAP	49847690	GDSC2_AZD5582_1617	Apoptosis regulation	GDSC2_AZD5582_1617
+31	2169	AZD6482	AZD 6482, AZD-6482, AK-55409	PI3K/MTOR signaling	PI3Kbeta	44137675	GDSC2_AZD6482_2169	PI3K/MTOR signaling	GDSC2_AZD6482_2169
+32	1917	AZD6738	AZD 6738, AZD-6738	Genome integrity	ATR	54761306	GDSC2_AZD6738_1917	Genome integrity	GDSC2_AZD6738_1917
+33	1022	AZD7762	AZD-7762, AZD 7762	Cell cycle	CHEK1, CHEK2	11152667	GDSC2_AZD7762_1022	Cell cycle	GDSC2_AZD7762_1022
+34	1059	AZD8055	AZD-8055	PI3K/MTOR signaling	MTORC1, MTORC2	25262965	GDSC2_AZD8055_1059	PI3K/MTOR signaling	GDSC2_AZD8055_1059
+35	1918	AZD8186	AZD 8186, AZD-8186	PI3K/MTOR signaling	PI3Kalpha, PI3Kbeta	52913813	GDSC2_AZD8186_1918	PI3K/MTOR signaling	GDSC2_AZD8186_1918
+40	1086	BI-2536	-	Cell cycle	PLK1, PLK2, PLK3	11364421	GDSC2_BI-2536_1086	Cell cycle	GDSC2_BI-2536_1086
+41	2043	BIBR-1532	-	Genome integrity	TERT	9927531	GDSC2_BIBR-1532_2043	Genome integrity	GDSC2_BIBR-1532_2043
+42	1502	Bicalutamide	ICI-176334, Casodex, Cosudex, ICI 176334	Hormone-related	AR	2375	GDSC2_Bicalutamide_1502	Hormone-related	GDSC2_Bicalutamide_1502
+43	1812	Bleomycin	-	DNA replication	dsDNA break induction	5460769	GDSC2_Bleomycin_1812	DNA inhibitor	GDSC2_Bleomycin_1812
+44	1378	Bleomycin (50 uM)	-	DNA replication	dsDNA break induction	5460769	GDSC2_Bleomycin (50 uM)_1378	DNA inhibitor	GDSC2_Bleomycin (50 uM)_1378
+45	1249	BMS-345541	-	Other	IKK-1, IKK-2	9926054	GDSC2_BMS-345541_1249	Others	GDSC2_BMS-345541_1249
+46	1091	BMS-536924	BMS 536924	IGF1R signaling	IGF1R, IR	10390396	GDSC2_BMS-536924_1091	IGF1R signaling	GDSC2_BMS-536924_1091
+48	1191	Bortezomib	PS-341, LDP-341, Velcade	Protein stability and degradation	Proteasome	387447	GDSC2_Bortezomib_1191	Protein stability and degradation	GDSC2_Bortezomib_1191
+49	1019	Bosutinib	SKI-606, Bosulif	Other, kinases	SRC, ABL, TEC	5328940	GDSC2_Bosutinib_1019	Others	GDSC2_Bosutinib_1019
+51	1873	Buparlisib	BKM120, NVP-BKM120	PI3K/MTOR signaling	PI3Kalpha, PI3Kdelta, PI3Kbeta, PI3Kgamma	16654980	GDSC2_Buparlisib_1873	PI3K/MTOR signaling	GDSC2_Buparlisib_1873
+52	1037	BX795	BX-795	Other, kinases	TBK1, PDK1 (PDPK1), IKK, AURKB, AURKC	10077147	GDSC2_BX795_1037	Others	GDSC2_BX795_1037
+53	1003	Camptothecin	Camptothecine, (+)-Camptothecin	DNA replication	TOP1	24360	GDSC2_Camptothecin_1003	DNA inhibitor	GDSC2_Camptothecin_1003
+54	1807	Carmustine	-	-	-	2578	GDSC2_Carmustine_1807	DNA alkylator	GDSC2_Carmustine_1807
+55	1170	CCT-018159	CCT018159, CCT 018159	Protein stability and degradation	HSP90	5327091	GDSC2_CCT-018159_1170	Protein stability and degradation	GDSC2_CCT-018159_1170
+56	1067	CCT007093	-	Cell cycle	PPM1D	2314623	GDSC2_CCT007093_1067	Cell cycle	GDSC2_CCT007093_1067
+59	1922	Cediranib	AZD2171, AZD 2171, AZD-2171, Recentin	RTK signaling	VEGFR, FLT1, FLT2, FLT3, FLT4, KIT, PDGFRB	9933475	GDSC2_Cediranib_1922	RTK signaling	GDSC2_Cediranib_1922
+60	2175	CHIR-99021	CT 99021, CHIR99021, CHIR 99021	WNT signaling	GSK3A, GSK3B	9956119	GDSC2_CHIR-99021_2175	WNT signaling	GDSC2_CHIR-99021_2175
+61	1005	Cisplatin	cis-Diammineplatinum(II) dichloride, Platinol, CIS-DDP	DNA replication	DNA crosslinker	84691	GDSC2_Cisplatin_1005	Platinum	GDSC2_Cisplatin_1005
+62	2158	CPI-637	-	Chromatin histone methylation	EP300	131698633	GDSC2_CPI-637_2158	Chromatin-related	GDSC2_CPI-637_2158
+63	1083	Crizotinib	Xalkori, PF2341066, PF-2341066, PF 2341066	RTK signaling	MET, ALK, ROS1	11626560	GDSC2_Crizotinib_1083	RTK signaling	GDSC2_Crizotinib_1083
+65	1512	Cyclophosphamide	Cytoxan, Neosar, Cyclophosphamid, Procytox, Cyclophosphane	DNA replication	Alkylating agent	2907	GDSC2_Cyclophosphamide_1512	DNA alkylator	GDSC2_Cyclophosphamide_1512
+66	1006	Cytarabine	Ara-Cytidine, Arabinosyl Cytosine, U-19920	Other	Antimetabolite	6253	GDSC2_Cytarabine_1006	Antimetabolite	GDSC2_Cytarabine_1006
+67	1615	CZC24832	GTPL6653	PI3K/MTOR signaling	PI3Kgamma	42623951	GDSC2_CZC24832_1615	PI3K/MTOR signaling	GDSC2_CZC24832_1615
+68	1373	Dabrafenib	GSK2118436, Tafinlar	ERK MAPK signaling	BRAF	44462760	GDSC2_Dabrafenib_1373	ERK MAPK signaling	GDSC2_Dabrafenib_1373
+69	1815	Dacarbazine	DTIC	Other	CP11A	2942	GDSC2_Dacarbazine_1815	Others	GDSC2_Dacarbazine_1815
+70	1911	Dactinomycin	Actinomycin D, Cosmegen, Lyovac, Meractinomycin, Ac-De, ActD	Other	RNA polymerase	457193	GDSC2_Dactinomycin_1911	DNA inhibitor	GDSC2_Dactinomycin_1911
+71	1811	Dactinomycin	Actinomycin D	Other	RNA polymerase	457193	GDSC2_Dactinomycin_1811	DNA inhibitor	GDSC2_Dactinomycin_1811
+72	1057	Dactolisib	NVP-BEZ235, BEZ235	PI3K/MTOR signaling	PI3K (class 1), MTORC1, MTORC2	11977753	GDSC2_Dactolisib_1057	PI3K/MTOR signaling	GDSC2_Dactolisib_1057
+73	1248	Daporinad	APO866,  FK866, FK866	Metabolism	NAMPT	6914657	GDSC2_Daporinad_1248	Metabolism	GDSC2_Daporinad_1248
+74	1079	Dasatinib	BMS-354825-03, BMS-354825, Sprycel	Other, kinases	ABL, SRC, Ephrins, PDGFR, KIT	3062316	GDSC2_Dasatinib_1079	Others	GDSC2_Dasatinib_1079
+75	1180	Dinaciclib	SCH727965, SCH 727965, SCH-727-965, MK-7965	Cell cycle	CDK1, CDK2, CDK5, CDK9	46926350	GDSC2_Dinaciclib_1180	Cell cycle	GDSC2_Dinaciclib_1180
+76	1007	Docetaxel	RP-56976, Taxotere	Mitosis	Microtubule stabiliser	148124	GDSC2_Docetaxel_1007	Antimicrotubule	GDSC2_Docetaxel_1007
+77	1819	Docetaxel	RP-56976, Taxotere	Mitosis	Microtubule stabiliser	148124	GDSC2_Docetaxel_1819	Antimicrotubule	GDSC2_Docetaxel_1819
+78	1042	Doramapimod	BIRB-796, BIRB 796	JNK and p38 signaling	p38, JNK2	156422	GDSC2_Doramapimod_1042	JNK and p38 signaling	GDSC2_Doramapimod_1042
+80	1069	EHT-1864	EHT 1864	Cytoskeleton	RAC1, RAC2, RAC3	9938202	GDSC2_EHT-1864_1069	Cytoskeleton	GDSC2_EHT-1864_1069
+81	1031	Elesclomol	STA-4783	Protein stability and degradation	HSP90	300471	GDSC2_Elesclomol_1031	Protein stability and degradation	GDSC2_Elesclomol_1031
+82	1593	Entinostat	MS-275	Chromatin histone acetylation	HDAC1, HDAC3	4261	GDSC2_Entinostat_1593	Chromatin-related	GDSC2_Entinostat_1593
+83	1630	Entospletinib	GS-9973	Other, kinases	SYK	59473233	GDSC2_Entospletinib_1630	Others	GDSC2_Entospletinib_1630
+84	1511	Epirubicin	Ellence, Farmorubicin, IMI-28	DNA replication	Anthracycline	41867	GDSC2_Epirubicin_1511	DNA inhibitor	GDSC2_Epirubicin_1511
+85	1237	EPZ004777	EPZ-004777	Chromatin histone methylation	DOT1L	56962336	GDSC2_EPZ004777_1237	Chromatin-related	GDSC2_EPZ004777_1237
+86	1563	EPZ5676	EPZ-5676, Pinometostat	Chromatin histone methylation	DOT1L	57345410	GDSC2_EPZ5676_1563	Chromatin-related	GDSC2_EPZ5676_1563
+89	1168	Erlotinib	Tarceva, RG-1415, CP-358774, OSI-774, Ro-508231, R-1415	EGFR signaling	EGFR	176870	GDSC2_Erlotinib_1168	EGFR signaling	GDSC2_Erlotinib_1168
+90	1813	Fludarabine	Fludara	DNA replication	Antimetabolite	657237	GDSC2_Fludarabine_1813	Antimetabolite	GDSC2_Fludarabine_1813
+91	2040	Foretinib	GSK1363089, XL-880, EXEL-2880, GSK089	RTK signaling	MET, KDR, TIE2, VEGFR3/FLT4, RON, PDGFR, FGFR1, EGFR	42642645	GDSC2_Foretinib_2040	RTK signaling	GDSC2_Foretinib_2040
+92	1816	Fulvestrant	-	Hormone-related	ESR	104741	GDSC2_Fulvestrant_1816	Hormone-related	GDSC2_Fulvestrant_1816
+93	1200	Fulvestrant	Faslodex, ICI-182780	Hormone-related	ESR	104741	GDSC2_Fulvestrant_1200	Hormone-related	GDSC2_Fulvestrant_1200
+95	1925	GDC0810	GDC-0810, GDC 0810	Hormone-related	ESR1, ESR2	56941241	GDSC2_GDC0810_1925	Hormone-related	GDSC2_GDC0810_1925
+96	1010	Gefitinib	ZD-1839, Iressa	EGFR signaling	EGFR	123631	GDSC2_Gefitinib_1010	EGFR signaling	GDSC2_Gefitinib_1010
+97	1190	Gemcitabine	Gemzar, LY-188011	DNA replication	Pyrimidine antimetabolite	60750	GDSC2_Gemcitabine_1190	Antimetabolite	GDSC2_Gemcitabine_1190
+98	2439	glutathione	G6013, sigma	Other	anti-oxidant proteins	124886	GDSC2_glutathione_2439	Others	GDSC2_glutathione_2439
+99	1926	GNE-317	GNE317, GNE 317	PI3K/MTOR signaling	PI3Kalpha	70676303	GDSC2_GNE-317_1926	PI3K/MTOR signaling	GDSC2_GNE-317_1926
+102	1093	GSK1904529A	GSK-1904529A, GSK 1904529A	IGF1R signaling	IGF1R, IR	25124816	GDSC2_GSK1904529A_1093	IGF1R signaling	GDSC2_GSK1904529A_1093
+106	1927	GSK2578215A	GSK 2578215A,  GSK-2578215A	Other, kinases	LRRK2	68107965	GDSC2_GSK2578215A_1927	Others	GDSC2_GSK2578215A_1927
+107	1618	GSK2606414	AK175551	Metabolism	PERK	53469448	GDSC2_GSK2606414_1618	Metabolism	GDSC2_GSK2606414_1618
+108	1192	GSK269962A	GSK 269962A	Cytoskeleton	ROCK1, ROCK2	16095342	GDSC2_GSK269962A_1192	Cytoskeleton	GDSC2_GSK269962A_1192
+110	2359	GSK2830371	None	Other	WIP1	70983932	GDSC2_GSK2830371_2359	Others	GDSC2_GSK2830371_2359
+113	1627	GSK343	GTPL8240, AOB3680, AK175558	Chromatin histone methylation	EZH2	71268957	GDSC2_GSK343_1627	Chromatin-related	GDSC2_GSK343_1627
+114	2037	GSK343	-	Chromatin histone methylation	EZH2	71268957	GDSC2_GSK343_2037	Chromatin-related	GDSC2_GSK343_2037
+115	2110	GSK591	EPZ015866, GSK3203591	Chromatin histone methylation	PMRT5	117072552	GDSC2_GSK591_2110	Chromatin-related	GDSC2_GSK591_2110
+117	1023	GW441756	GW 441756	RTK signaling	NTRK1	9943465	GDSC2_GW441756_1023	RTK signaling	GDSC2_GW441756_1023
+119	1624	I-BET-762	GSK525762A	Chromatin other	BRD2, BRD3, BRD4	46943432	GDSC2_I-BET-762_1624	Chromatin-related	GDSC2_I-BET-762_1624
+120	1928	I-BRD9	GSK602, GSK 602, GSK-602	Chromatin other	BRD9	91668541	GDSC2_I-BRD9_1928	Chromatin-related	GDSC2_I-BRD9_1928
+122	1799	Ibrutinib	PCI-32765, CRA-032765, PCI-32765-00	Other, kinases	BTK	24821094	GDSC2_Ibrutinib_1799	Others	GDSC2_Ibrutinib_1799
+125	2174	IOX2	IOX-2, IOX 2, AK176060	Other	EGLN1	54685215	GDSC2_IOX2_2174	Others	GDSC2_IOX2_2174
+126	1924	Ipatasertib	GDC0068, GDC 0068, GDC-0068	PI3K/MTOR signaling	AKT1, AKT, AKT3	24788740	GDSC2_Ipatasertib_1924	PI3K/MTOR signaling	GDSC2_Ipatasertib_1924
+128	1088	Irinotecan	Camptosar, (+)-Irinotecan, Irinotecanum, irinotecan hydrochloride	DNA replication	TOP1	60838	GDSC2_Irinotecan_1088	Topoisomerase inhibitor	GDSC2_Irinotecan_1088
+129	1576	IWP-2	Wnt Inhibitor IWP-2	WNT signaling	PORCN	2155128	GDSC2_IWP-2_1576	WNT signaling	GDSC2_IWP-2_1576
+132	1043	JNK Inhibitor VIII	-	JNK and p38 signaling	JNK	11624601	GDSC2_JNK Inhibitor VIII_1043	JNK and p38 signaling	GDSC2_JNK Inhibitor VIII_1043
+133	2172	JQ1	JQ-1, (+)-JQ-1	Chromatin other	BRD2, BRD3, BRD4, BRDT	46907787	GDSC2_JQ1_2172	Chromatin-related	GDSC2_JQ1_2172
+134	1855	KRAS (G12C) Inhibitor-12	GTPL8020	ERK MAPK signaling	KRAS (G12C)	73555129	GDSC2_KRAS (G12C) Inhibitor-12_1855	ERK MAPK signaling	GDSC2_KRAS (G12C) Inhibitor-12_1855
+135	1030	KU-55933	KU55933	Genome integrity	ATM	5278396	GDSC2_KU-55933_1030	Genome integrity	GDSC2_KU-55933_1030
+137	1558	Lapatinib	Tykerb, Tyverb	EGFR signaling	EGFR, ERBB2	208908	GDSC2_Lapatinib_1558	EGFR signaling	GDSC2_Lapatinib_1558
+138	1557	LCL161	-	Apoptosis regulation	XIAP, IAP1, IAP2	24737642	GDSC2_LCL161_1557	Apoptosis regulation	GDSC2_LCL161_1557
+139	1578	Leflunomide	Sulol, SU-101, HWA-486, Arava	DNA replication	Pyrimidine synthesis inhibitor	3899	GDSC2_Leflunomide_1578	Antimetabolite	GDSC2_Leflunomide_1578
+140	1020	Lenalidomide	CDC-501, CC-5013, Revlimid	Protein stability and degradation	CRBN	216326	GDSC2_Lenalidomide_1020	Protein stability and degradation	GDSC2_Lenalidomide_1020
+141	1024	Lestaurtinib	CEP-701, SP-924, SPM-924, A-154475, KT-555	Other, kinases	FLT3, JAK2, NTRK1, NTRK2, NTRK3	126565	GDSC2_Lestaurtinib_1024	Others	GDSC2_Lestaurtinib_1024
+142	1598	LGK974	LGK-974	WNT signaling	PORCN	46926973	GDSC2_LGK974_1598	WNT signaling	GDSC2_LGK974_1598
+143	1510	Linsitinib	OSI-906, ASP-7487	IGF1R signaling	IGF1R	11640390	GDSC2_Linsitinib_1510	IGF1R signaling	GDSC2_Linsitinib_1510
+144	2107	LJI308	-	PI3K/MTOR signaling	RSK2, RSK1, RSK3	118704762	GDSC2_LJI308_2107	PI3K/MTOR signaling	GDSC2_LJI308_2107
+149	1559	Luminespib	AUY922, VER-52296,NVP-AUY922,  AUY	Protein stability and degradation	HSP90	10096043	GDSC2_Luminespib_1559	Protein stability and degradation	GDSC2_Luminespib_1559
+150	1852	LY2109761	5XE	Other	TGFB1	11655119	GDSC2_LY2109761_1852	Others	GDSC2_LY2109761_1852
+151	1008	Methotrexate	Abitrexate, Amethopterin, Rheumatrex, Trexall, Folex	DNA replication	Antimetabolite	126941	GDSC2_Methotrexate_1008	Antimetabolite	GDSC2_Methotrexate_1008
+152	1862	MG-132	LLL cpd, MG 132, MG132	Protein stability and degradation	Proteasome, CAPN1	462382	GDSC2_MG-132_1862	Protein stability and degradation	GDSC2_MG-132_1862
+153	1996	MIM1	MIM 1, MIM-1	Apoptosis regulation	MCL1	16241412	GDSC2_MIM1_1996	Apoptosis regulation	GDSC2_MIM1_1996
+154	1931	MIRA-1	MIRA 1, MIRA1, NSC19630, NSC-19630, NSC 19630	p53 pathway	TP53	227681	GDSC2_MIRA-1_1931	p53 pathway	GDSC2_MIRA-1_1931
+155	1048	Mirin	-	Genome integrity	MRE11	520459	GDSC2_Mirin_1048	Genome integrity	GDSC2_Mirin_1048
+156	1810	Mitoxantrone	-	DNA replication	TOP2	4212	GDSC2_Mitoxantrone_1810	DNA inhibitor	GDSC2_Mitoxantrone_1810
+157	1179	MK-1775	AZD1775, Adavosertib	Cell cycle	WEE1, PLK1	24856436	GDSC2_MK-1775_1179	Cell cycle	GDSC2_MK-1775_1179
+158	1053	MK-2206	MK 2206, MK2206	PI3K/MTOR signaling	AKT1, AKT2	46930998	GDSC2_MK-2206_1053	PI3K/MTOR signaling	GDSC2_MK-2206_1053
+159	2046	MK-8776	SCH900776	Cell cycle	CHEK1, CHEK2, CDK2	16224745	GDSC2_MK-8776_2046	Cell cycle	GDSC2_MK-8776_2046
+160	1629	ML323	GTPL7898, AOB2313,	Protein stability and degradation	USP1, UAF1	60167849	GDSC2_ML323_1629	Protein stability and degradation	GDSC2_ML323_1629
+161	1854	MN-64	-	WNT signaling	TNKS1, TNKS2	2802462	GDSC2_MN-64_1854	WNT signaling	GDSC2_MN-64_1854
+162	1029	Motesanib	AMG-706, AMG 706, AMG706	RTK signaling	VEGFR, RET, KIT, PDGFR	11667893	GDSC2_Motesanib_1029	RTK signaling	GDSC2_Motesanib_1029
+169	1011	Navitoclax	ABT-263, ABT263, ABT 263	Apoptosis regulation	BCL2, BCL-XL, BCL-W	24978538	GDSC2_Navitoclax_1011	Apoptosis regulation	GDSC2_Navitoclax_1011
+170	1814	Nelarabine	Atriance, Arranon	DNA replication	-	3011155	GDSC2_Nelarabine_1814	DNA inhibitor	GDSC2_Nelarabine_1814
+171	1013	Nilotinib	Tasigna, AMN 107	ABL signaling	ABL	644241	GDSC2_Nilotinib_1013	Others	GDSC2_Nilotinib_1013
+172	1177	Niraparib	MK-4827, MK4827	Genome integrity	PARP1, PARP2	24958200	GDSC2_Niraparib_1177	PARP inhibitor	GDSC2_Niraparib_1177
+173	1038	NU7441	KU-57788, NU-7432, NU-7741	Genome integrity	DNAPK	11327430	GDSC2_NU7441_1038	Genome integrity	GDSC2_NU7441_1038
+174	1047	Nutlin-3a (-)	-	p53 pathway	MDM2	11433190	GDSC2_Nutlin-3a (-)_1047	p53 pathway	GDSC2_Nutlin-3a (-)_1047
+175	1932	NVP-ADW742	NVP ADW742, NVPADW742	IGF1R signaling	IGF1R	9825149	GDSC2_NVP-ADW742_1932	IGF1R signaling	GDSC2_NVP-ADW742_1932
+176	1068	Obatoclax Mesylate	GX15-070MS, Obatoclax, GX15-070	Apoptosis regulation	BCL2, BCL-XL, BCL-W, MCL1	11404337	GDSC2_Obatoclax Mesylate_1068	Apoptosis regulation	GDSC2_Obatoclax Mesylate_1068
+177	1853	OF-1	-	Chromatin histone acetylation	BRPF1B, BRPF2	35397514	GDSC2_OF-1_1853	Chromatin-related	GDSC2_OF-1_1853
+178	1017	Olaparib	AZD2281, KU0059436,  Lynparza	Genome integrity	PARP1, PARP2	23725625	GDSC2_Olaparib_1017	PARP inhibitor	GDSC2_Olaparib_1017
+179	1594	OSI-027	A-1065-5	PI3K/MTOR signaling	MTORC1, MTORC2	44224160	GDSC2_OSI-027_1594	PI3K/MTOR signaling	GDSC2_OSI-027_1594
+180	1919	Osimertinib	AZD9291, AZD 9291, AZD-9291, Tagrisso, Mereletinib	EGFR signaling	EGFR	71496458	GDSC2_Osimertinib_1919	EGFR signaling	GDSC2_Osimertinib_1919
+181	1626	OTX015	Birabresib, OTX-015, MK-8628	Chromatin other	BRD2, BRD3, BRD4	9936746	GDSC2_OTX015_1626	Chromatin-related	GDSC2_OTX015_1626
+182	1089	Oxaliplatin	Eloxatin	DNA replication	DNA alkylating agent	5310940	GDSC2_Oxaliplatin_1089	Platinum	GDSC2_Oxaliplatin_1089
+183	1806	Oxaliplatin	-	DNA replication	DNA alkylating agent	5310940	GDSC2_Oxaliplatin_1806	Platinum	GDSC2_Oxaliplatin_1806
+184	1933	P22077	P 22077, P-22077	Protein stability and degradation	USP7, USP47	46931953	GDSC2_P22077_1933	Protein stability and degradation	GDSC2_P22077_1933
+185	1080	Paclitaxel	BMS-181339-01, Taxol, Onxol, Paxene, Praxel, Abraxane	Mitosis	Microtubule stabiliser	36314	GDSC2_Paclitaxel_1080	Antimicrotubule	GDSC2_Paclitaxel_1080
+187	1054	Palbociclib	PD0332991, PD-0332991, PF-00080665-73	Cell cycle	CDK4, CDK6	5330286	GDSC2_Palbociclib_1054	Cell cycle	GDSC2_Palbociclib_1054
+189	1621	PCI-34051	AK298746	Chromatin histone acetylation	HDAC8, HDAC6, HDAC1	24753719	GDSC2_PCI-34051_1621	Chromatin-related	GDSC2_PCI-34051_1621
+190	1060	PD0325901	PD-0325901, PD 0325901	ERK MAPK signaling	MEK1, MEK2	9826528	GDSC2_PD0325901_1060	ERK MAPK signaling	GDSC2_PD0325901_1060
+191	1049	PD173074	PD-173074, PD 173074	RTK signaling	FGFR1, FGFR2, FGFR3	1401	GDSC2_PD173074_1049	RTK signaling	GDSC2_PD173074_1049
+192	1529	Pevonedistat	MLN4924, MLN 4924, MLN-4924	Other	NAE	16720766	GDSC2_Pevonedistat_1529	Others	GDSC2_Pevonedistat_1529
+193	1129	PF-4708671	PF 4708671, PF4708671	PI3K/MTOR signaling	S6K1	51371303	GDSC2_PF-4708671_1129	PI3K/MTOR signaling	GDSC2_PF-4708671_1129
+194	2173	PFI-1	-	Chromatin other	BRD4	71271629	GDSC2_PFI-1_2173	Chromatin-related	GDSC2_PFI-1_2173
+195	1620	PFI3	PFI-3, PFI 3, AOB2221	Chromatin other	Polybromo 1, SMARCA4, SMARCA2	78243717	GDSC2_PFI3_1620	Chromatin-related	GDSC2_PFI3_1620
+196	1635	Picolinici-acid	Picolinate	Other	Inflammatory related	1018	GDSC2_Picolinici-acid_1635	Others	GDSC2_Picolinici-acid_1635
+197	1058	Pictilisib	GDC-0941, GDC0941, RG-7621	PI3K/MTOR signaling	PI3K (class 1)	17755052	GDSC2_Pictilisib_1058	PI3K/MTOR signaling	GDSC2_Pictilisib_1058
+198	1243	Piperlongumine	Piplartine	Other	Induces reactive oxygen species	637858	GDSC2_Piperlongumine_1243	Others	GDSC2_Piperlongumine_1243
+199	1036	PLX-4720	PLX4720, PLX 4720	ERK MAPK signaling	BRAF	24180719	GDSC2_PLX-4720_1036	ERK MAPK signaling	GDSC2_PLX-4720_1036
+202	1131	PRIMA-1MET	Prima 1MET, APR-246	p53 pathway	TP53 activation	52918385	GDSC2_PRIMA-1MET_1131	p53 pathway	GDSC2_PRIMA-1MET_1131
+203	1631	PRT062607	P505-15, PRT-2607, BIIB-057	Other, kinases	SYK	44462758	GDSC2_PRT062607_1631	Others	GDSC2_PRT062607_1631
+204	2044	Pyridostatin	-	DNA replication	G-quadruplex stabiliser	25227847	GDSC2_Pyridostatin_2044	DNA inhibitor	GDSC2_Pyridostatin_2044
+205	1084	Rapamycin	AY-22989, Sirolimus, WY-090217, Torisel, Rapamune	PI3K/MTOR signaling	MTORC1	5384616	GDSC2_Rapamycin_1084	PI3K/MTOR signaling	GDSC2_Rapamycin_1084
+206	1014	Refametinib	RDEA119, BAY-86-9766, BAY 869766	ERK MAPK signaling	MEK1, MEK2	44182295	GDSC2_Refametinib_1014	ERK MAPK signaling	GDSC2_Refametinib_1014
+208	1632	Ribociclib	LEE011, NVP-LEE011, LEE011-BBA	Cell cycle	CDK4, CDK6	44631912	GDSC2_Ribociclib_1632	Cell cycle	GDSC2_Ribociclib_1632
+209	1052	RO-3306	-	Cell cycle	CDK1	44450571	GDSC2_RO-3306_1052	Cell cycle	GDSC2_RO-3306_1052
+211	1175	Rucaparib	PF-01367338, AG-014699, AG-14447, AG-14699	Genome integrity	PARP1, PARP2	9931953	GDSC2_Rucaparib_1175	PARP inhibitor	GDSC2_Rucaparib_1175
+212	1507	Ruxolitinib	INCB-18424, Ruxolitinib Phosphate, Jakafi	Other, kinases	JAK1, JAK2	25126798	GDSC2_Ruxolitinib_1507	Others	GDSC2_Ruxolitinib_1507
+213	1625	RVX-208	1044870-39-4, Apabetalone	Chromatin other	BRD4	24871506	GDSC2_RVX-208_1625	Chromatin-related	GDSC2_RVX-208_1625
+214	1849	Sabutoclax	BI-97C1	Apoptosis regulation	BCL2,  BCL-XL,  BFL1, MCL1	46236925	GDSC2_Sabutoclax_1849	Apoptosis regulation	GDSC2_Sabutoclax_1849
+215	1549	Sapitinib	AZD8931	EGFR signaling	EGFR, ERBB2, ERBB3	11488320	GDSC2_Sapitinib_1549	EGFR signaling	GDSC2_Sapitinib_1549
+216	1936	Savolitinib	AZD6094, Volitinib, AZD-6094, AZD 6094	RTK signaling	MET	68289010	GDSC2_Savolitinib_1936	RTK signaling	GDSC2_Savolitinib_1936
+217	1025	SB216763	SB-216763, SB 216763	WNT signaling	GSK3A, GSK3B	176158	GDSC2_SB216763_1025	WNT signaling	GDSC2_SB216763_1025
+218	1194	SB505124	SB 505124, SB505124	RTK signaling	TGFBR1, ACVR1B, ACVR1C	9858940	GDSC2_SB505124_1194	RTK signaling	GDSC2_SB505124_1194
+219	1061	SB590885	SB-590885	ERK MAPK signaling	BRAF	11316960	GDSC2_SB590885_1061	ERK MAPK signaling	GDSC2_SB590885_1061
+220	1564	SCH772984	CS-1421	ERK MAPK signaling	ERK1, ERK2	24866313	GDSC2_SCH772984_1564	ERK MAPK signaling	GDSC2_SCH772984_1564
+222	1736	Selumetinib	SN1103949345, AZD1480	ERK MAPK signaling	MEK1, MEK2	10127622	GDSC2_Selumetinib_1736	ERK MAPK signaling	GDSC2_Selumetinib_1736
+223	1062	Selumetinib	AZD6244, AZD-6244, ARRY-886	ERK MAPK signaling	MEK1, MEK2	10127622	GDSC2_Selumetinib_1062	ERK MAPK signaling	GDSC2_Selumetinib_1062
+224	1941	Sepantronium bromide	YM155, YM-155, YM 155	Apoptosis regulation	BIRC5	11178236	GDSC2_Sepantronium bromide_1941	Apoptosis regulation	GDSC2_Sepantronium bromide_1941
+225	1133	Serdemetan	JNJ-26854165	p53 pathway	MDM2	11609586	GDSC2_Serdemetan_1133	p53 pathway	GDSC2_Serdemetan_1133
+227	2177	SGC0946	-	Chromatin histone methylation	DOT1L	56962337	GDSC2_SGC0946_2177	Chromatin-related	GDSC2_SGC0946_2177
+229	1039	SL0101	SL-0101, SL 0101-1	Other, kinases	RSK, AURKB, PIM1, PIM3	10459196	GDSC2_SL0101_1039	Others	GDSC2_SL0101_1039
+230	1494	SN-38	7-Ethyl-10-Hydroxy-Camptothecin, SN 38	DNA replication	TOP1	104842	GDSC2_SN-38_1494	DNA inhibitor	GDSC2_SN-38_1494
+231	1085	Sorafenib	Nexavar, 284461-73-0, BAY 43-9006	Other, kinases	PDGFR, KIT, VEGFR, RAF	216239	GDSC2_Sorafenib_1085	Others	GDSC2_Sorafenib_1085
+232	1034	Staurosporine	-	RTK signaling	Broad spectrum kinase inhibitor	44259	GDSC2_Staurosporine_1034	RTK signaling	GDSC2_Staurosporine_1034
+234	1259	Talazoparib	BMN-673, BMN 973	Genome integrity	PARP1, PARP2	44819241	GDSC2_Talazoparib_1259	PARP inhibitor	GDSC2_Talazoparib_1259
+235	1199	Tamoxifen	Nolvadex, Soltamox, Zynoplex, ICI-46474, Kessar	Hormone-related	ESR1	2733526	GDSC2_Tamoxifen_1199	Hormone-related	GDSC2_Tamoxifen_1199
+236	1026	Tanespimycin	17-AAG, BMS-722782	Protein stability and degradation	HSP90	6505803	GDSC2_Tanespimycin_1026	Protein stability and degradation	GDSC2_Tanespimycin_1026
+237	1561	Taselisib	GDC-0032, GDC0032, RG7604	PI3K/MTOR signaling	PI3K (beta sparing)	51001932	GDSC2_Taselisib_1561	PI3K/MTOR signaling	GDSC2_Taselisib_1561
+238	1930	Telomerase Inhibitor IX	MST-312, MST 312, MST312	Genome integrity	Telomerase	10385095	GDSC2_Telomerase Inhibitor IX_1930	Genome integrity	GDSC2_Telomerase Inhibitor IX_1930
+239	1375	Temozolomide	Temodar, Temodal, M-39831, SCH 52365	DNA replication	DNA alkylating agent	5394	GDSC2_Temozolomide_1375	DNA inhibitor	GDSC2_Temozolomide_1375
+240	1016	Temsirolimus	CCI-779, Torisel	PI3K/MTOR signaling	MTOR	6918289	GDSC2_Temsirolimus_1016	PI3K/MTOR signaling	GDSC2_Temsirolimus_1016
+241	1809	Teniposide	Vumon	DNA replication	-	452548	GDSC2_Teniposide_1809	DNA inhibitor	GDSC2_Teniposide_1809
+245	1808	Topotecan	-	DNA replication	TOP1	60700	GDSC2_Topotecan_1808	DNA inhibitor	GDSC2_Topotecan_1808
+246	1096	Tozasertib	MK 0457,MK-0457,MK-045, VX-680 VX 680 VX-68	Mitosis	AURKA, AURKB, AURKC, others	5494449	GDSC2_Tozasertib_1096	Others	GDSC2_Tozasertib_1096
+247	1372	Trametinib	GSK1120212, Mekinist	ERK MAPK signaling	MEK1, MEK2	11707110	GDSC2_Trametinib_1372	ERK MAPK signaling	GDSC2_Trametinib_1372
+248	1009	Tretinoin	ATRA, Vesanoid, Renova, Atralin, Tretin-X, Avita	Other	Retinoic acid	444795	GDSC2_Tretinoin_1009	Others	GDSC2_Tretinoin_1009
+249	1149	TW 37	TW37, TW-37	Apoptosis regulation	BCL2, BCL-XL, MCL1	11455910	GDSC2_TW 37_1149	Apoptosis regulation	GDSC2_TW 37_1149
+250	2047	Ulixertinib	BVD-523, VRT752271	ERK MAPK signaling	ERK1, ERK2	11719003	GDSC2_Ulixertinib_2047	ERK MAPK signaling	GDSC2_Ulixertinib_2047
+251	1908	Ulixertinib	BVD-523, VRT752271	ERK MAPK signaling	ERK1, ERK2	58641927	GDSC2_Ulixertinib_1908	ERK MAPK signaling	GDSC2_Ulixertinib_1908
+253	1939	UMI-77	UMI 77, UMI-77	Apoptosis regulation	MCL1	992586	GDSC2_UMI-77_1939	Apoptosis regulation	GDSC2_UMI-77_1939
+256	2106	Uprosertib	GSK2141795, GSK2141795C, GSK-2141795	PI3K/MTOR signaling	AKT1, AKT2, AKT3	51042438	GDSC2_Uprosertib_2106	PI3K/MTOR signaling	GDSC2_Uprosertib_2106
+257	1553	Uprosertib	GSK2141795, GSK2141795C, GSK-2141795	PI3K/MTOR signaling	AKT1, AKT2, AKT3	51042438	GDSC2_Uprosertib_1553	PI3K/MTOR signaling	GDSC2_Uprosertib_1553
+258	1613	VE-822	VE 822, VE822, Berzosertib	Genome integrity	ATR	59472121	GDSC2_VE-822_1613	Genome integrity	GDSC2_VE-822_1613
+259	2111	VE821	VE 821, VE-821	Genome integrity	ATR	51000408	GDSC2_VE821_2111	Genome integrity	GDSC2_VE821_2111
+260	1018	Veliparib	ABT-888, ABT888, ABT 888	Genome integrity	PARP1, PARP2	11960529	GDSC2_Veliparib_1018	PARP inhibitor	GDSC2_Veliparib_1018
+261	1909	Venetoclax	ABT-199, Veneclexta, GDC-0199	Apoptosis regulation	BCL2	49846579	GDSC2_Venetoclax_1909	Apoptosis regulation	GDSC2_Venetoclax_1909
+262	1004	Vinblastine	Velban	Mitosis	Microtubule destabiliser	6710780	GDSC2_Vinblastine_1004	Antimicrotubule	GDSC2_Vinblastine_1004
+263	1818	Vincristine	-	-	-	5978	GDSC2_Vincristine_1818	Others	GDSC2_Vincristine_1818
+264	2048	Vinorelbine	vinorelbine tartrate, Navelbine, Exelbine	Mitosis	Microtubule destabiliser	5311497	GDSC2_Vinorelbine_2048	Antimicrotubule	GDSC2_Vinorelbine_2048
+265	1033	Vismodegib	GDC0449, Erivedge	Other	SMO	24776445	GDSC2_Vismodegib_1033	Others	GDSC2_Vismodegib_1033
+266	1012	Vorinostat	Zolinza, SAHA, suberanilohydroxamic acid, suberoylanilide hydroxamic acid, MK-0683	Chromatin histone acetylation	HDAC inhibitor Class I, IIa, IIb, IV	5311	GDSC2_Vorinostat_1012	Chromatin-related	GDSC2_Vorinostat_1012
+270	2096	VX-11e	VX11e, VX11e	ERK MAPK signaling	ERK2	11634725	GDSC2_VX-11e_2096	ERK MAPK signaling	GDSC2_VX-11e_2096
+271	1046	Wee1 Inhibitor	681640, Wee1 Inhibitor	Cell cycle	WEE1, CHEK1	10384072	GDSC2_Wee1 Inhibitor_1046	Cell cycle	GDSC2_Wee1 Inhibitor_1046
+272	1997	WEHI-539	WEHI539, WEHI-539	Apoptosis regulation	BCL-XL	71297207	GDSC2_WEHI-539_1997	Apoptosis regulation	GDSC2_WEHI-539_1997
+273	1940	WIKI4	WIKI-4, WIKI 4	WNT signaling	TNKS1, TNKS2	2984337	GDSC2_WIKI4_1940	WNT signaling	GDSC2_WIKI4_1940
+274	1622	Wnt-C59	AOB3540, AK161197	WNT signaling	PORCN	57519544	GDSC2_Wnt-C59_1622	WNT signaling	GDSC2_Wnt-C59_1622
+275	1614	WZ4003	WZ 4003	Other, kinases	NUAK1, NUAK2	72200024	GDSC2_WZ4003_1614	Others	GDSC2_WZ4003_1614
+276	1268	XAV939	NVP-XAV939, XAV-939, XAV 939	WNT signaling	TNKS1, TNKS2	2726824	GDSC2_XAV939_1268	WNT signaling	GDSC2_XAV939_1268
+277	1239	YK-4-279	YK 4-279	Other	RNA helicase A	44632017	GDSC2_YK-4-279_1239	Others	GDSC2_YK-4-279_1239
+278	1050	ZM447439	ZM-447439, ZM 447439	Mitosis	AURKA, AURKB	9914412	GDSC2_ZM447439_1050	Others	GDSC2_ZM447439_1050
