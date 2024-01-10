@@ -1,4 +1,5 @@
-The following data files can be obtained from the corresponding websites.
+All data required for this study is publicly available from the following sites.  
+Please refer to the terms, policies, and conditions/licenses for each data acquisition at your own responsibility.
 
 ## [GDSC1/2](https://www.cancerrxgene.org/downloads/bulk_download)
 - GDSC1_fitted_dose_response_25Feb20.xlsx
@@ -12,9 +13,9 @@ The following data files can be obtained from the corresponding websites.
 - v20.meta.per_cell_line.txt
 - v20.meta.per_experiment.txt
 
+## PRISM [depmap portal](https://depmap.org/portal/download/)
+- secondary-screen-dose-response-curve-parameters.csv
+
 ## gCSI, from [PharmacoDB](https://pharmacodb.ca/)
 - gCSI2019_drug_info.txt
 - gCSI2019_pharmacoDB_profiles.tsv
-
-## PRISM [depmap portal](https://depmap.org/portal/download/)
-- secondary-screen-dose-response-curve-parameters.csv
