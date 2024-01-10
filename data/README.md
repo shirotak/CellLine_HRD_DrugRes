@@ -18,9 +18,3 @@ The following data files can be obtained from the corresponding websites.
 
 ## PRISM [depmap portal](https://depmap.org/portal/download/)
 - secondary-screen-dose-response-curve-parameters.csv
-
-## [ROADMAPS](https://dtp.cancer.gov/databases_tools/roadmaps.htm)
-- roadmaps_12-14-2021.xlsx
-
-## [BCaPE](https://figshare.com/articles/dataset/Bruna_et_al_A_biobank_of_breast_cancer_explants_with_preserved_intra-tumor_heterogeneity_to_screen_anticancer_compounds_Cell_2016/2069274)
-- DrugResponsesAUCSamples.txt

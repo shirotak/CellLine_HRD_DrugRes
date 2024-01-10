@@ -1,4 +1,4 @@
-# Homologous recombination deficiency does not correlate with platinum or PARP inhibitor in vitro sensitivity in a cell line library   
+# Homologous recombination deficiency unrelated to platinum and PARP inhibitor response in cell line libraries   
 This page provides processed data and codes to reproduce the results of the corresponding paper.  
 Other codes for preprocessing are available from authors upon reasonable request.
 
@@ -14,7 +14,7 @@ Other codes for preprocessing are available from authors upon reasonable request
 ---
 # Contents
 ## data   
-- data requirements
+- required data
 - manually curated annotation data
   
 ## processed
@@ -24,10 +24,12 @@ Other codes for preprocessing are available from authors upon reasonable request
 - Drug-response AUC data
   
 ## scripts
-- Drug annotation
-- Drug auc integration
-- Analysis
+- step1 drug annotation
+- step2 drug auc integration
+- step3 analysis
   
 ---
-# Citations
-Currently under paper submission.
+# Citation
+Currently under paper submission.  
+The manuscript is available on the bioRxiv preprint server.  
+doi: https://doi.org/10.1101/2023.07.06.547853
