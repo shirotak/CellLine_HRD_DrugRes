@@ -1,6 +1,5 @@
 Genomic profiles of cancer cell lines from the Cancer Cell Line Encyclopedia (CCLE) and COSMIC Cell Lines Project (CLP) were integrated as files named `CCLE_broad.txt` and `CLP_cosmic.txt`, respectively.  
-These files were integrated from the datasets listed below.  
-Users should follow the terms, policies, and conditions/licenses for each dataset at their own responsibility.
+Since these files are derived from the following datasets, users should follow the terms, policies, and conditions/licenses of each dataset at their own responsibility.　　
 ## Broad-CCLE
 ### [depmap portal](https://depmap.org/portal/download/all)
 #### DepMap Public 22Q2
