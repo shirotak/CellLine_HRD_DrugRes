@@ -1,29 +1,21 @@
-All data required for this study is publicly available from the following websites.  
-Please refer to the terms, policies, and conditions/licenses for each data acquisition at your own responsibility.
+Genomic profiles of cancer cell lines from the Cancer Cell Line Encyclopedia (CCLE) in the Broad Institute and COSMIC Cell Lines Project (CLP) were integrated as files named `CCLE_broad.txt` and `CLP_cosmic.txt`, respectively.  
+These files were integrated from the datasets listed below.  
+Users should follow the terms, policies, and conditions/licenses for each dataset at their own responsibility.
+## Broad-CCLE
+### [depmap portal](https://depmap.org/portal/download/all)
+#### DepMap Public 22Q2
+- Sample_info.csv
+- CCLE_mutations.csv
+- CCLE_expression.csv
+#### CCLE2019
+- CCLE_ABSOLUTE_combined_20181227.xlsx
+- CCLE_RRBS_TSS1kb_20181022.txt
 
-## GDSC1/2
-### [Resources Download - Bulk download](https://www.cancerrxgene.org/downloads/bulk_download)
-- GDSC1_dataset (accessed at November 11, 2021, GDSC1_fitted_dose_response_25Feb20.xlsx)
-- GDSC2_dataset (accessed at November 11, 2021, GDSC2_fitted_dose_response_25Feb20.xlsx)
-
-## CTRP1/2
-### [CTD2 data portal - The Broad Institute](https://www.cancer.gov/ccg/research/functional-genomics/ctd2/data-portal/broad-institute) 
-#### [CTRPv1, 2013](https://ctd2-data.nci.nih.gov/Public/Broad/CTRPv1.0_2013_pub_Cell_154_1151/)
-- CTRPv1.0._INFORMER_SET.csv
-- v10.D3.area_under_conc_curve.txt
-#### [CTRPv2, 2015](https://ctd2-data.nci.nih.gov/Public/Broad/CTRPv2.0_2015_ctd2_ExpandedDataset/)
-- CTRPv2.0._INFORMER_SET.csv
-- v20.data.curves_post_qc.txt
-- v20.meta.per_cell_line.txt
-- v20.meta.per_experiment.txt
-
-## PRISM
-### [depmap portal](https://depmap.org/portal/download/)
-#### PRISM Repurposing 19Q4
-- secondary-screen-dose-response-curve-parameters.csv
-
-## gCSI
-### from [PharmacoDB](https://pharmacodb.ca/), using [PharmacoGx](https://doi.org/doi:10.18129/B9.bioc.PharmacoGx)
-#### gCSI_2019
-- gCSI2019_drug_info.txt
-- gCSI2019_pharmacoDB_profiles.tsv
+## COSMIC-CLP
+### [Data Downloads](https://cancer.sanger.ac.uk/cell_lines)
+- QC.xlsx
+- CosmicCLP_MutantExport.tsv.gz
+- CosmicCLP_RawGeneExpression.tsv.gz
+- cell_lines_copy_number.csv
+### [GSE68379](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE68379)
+- GSE68379_Matrix.processed.txt.gz

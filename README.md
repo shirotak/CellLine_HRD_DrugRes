@@ -1,6 +1,5 @@
 # Homologous recombination deficiency unrelated to platinum and PARP inhibitor response in cell line libraries   
-This page provides processed data and codes to reproduce the results of the corresponding paper.  
-Other codes for preprocessing are available from authors upon reasonable request.
+This page provides data and code to reproduce the results of the corresponding paper.  
 
 ---
 # Analysis environments
@@ -14,22 +13,18 @@ Other codes for preprocessing are available from authors upon reasonable request
 ---
 # Contents
 ## data   
-- required data
-- manually curated annotation data
+- integrated genomic profiles in cancer cell lines
+- curated drug annotation data
   
-## processed
-- CCLE data
-- COSMIC-CLP data
-- Drug annotation
-- Drug-response AUC data
-  
+## download
+- Drug-response AUC values
+- Drug annotations 
+
 ## scripts
-- step1 drug annotation
-- step2 drug auc integration
-- step3 analysis
+- step1 drug annotation and drug auc integration
+- step2 analysis
   
 ---
 # Citation
-Currently under paper submission.  
 The manuscript is available on the bioRxiv preprint server.  
 doi: https://doi.org/10.1101/2023.07.06.547853
