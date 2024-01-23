@@ -1,6 +1,6 @@
 Drug response AUC values and drug annotation are publicly available from the following websites.  
-Due to the large file size, these data are not saved on this page.  
-Users should download the datasets according to the terms, policies, and licenses of each dataset at their own responsibility.
+Due to large file size, these data are not saved on this page.  
+Users should download the datasets according to the terms, policies, conditions and licenses of each dataset at their own responsibility.
 
 ## GDSC1/2
 ### [Resources Download - Bulk download](https://www.cancerrxgene.org/downloads/bulk_download)
