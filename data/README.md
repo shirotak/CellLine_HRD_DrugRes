@@ -1,4 +1,4 @@
-Genomic profiles of cancer cell lines from the Cancer Cell Line Encyclopedia (CCLE) in the Broad Institute and COSMIC Cell Lines Project (CLP) were integrated as files named `CCLE_broad.txt` and `CLP_cosmic.txt`, respectively.  
+Genomic profiles of cancer cell lines from the Cancer Cell Line Encyclopedia (CCLE) and COSMIC Cell Lines Project (CLP) were integrated as files named `CCLE_broad.txt` and `CLP_cosmic.txt`, respectively.  
 These files were integrated from the datasets listed below.  
 Users should follow the terms, policies, and conditions/licenses for each dataset at their own responsibility.
 ## Broad-CCLE
