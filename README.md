@@ -13,11 +13,11 @@ This page provides data and code to reproduce the results of the corresponding p
 ---
 ## Contents
 ### data   
-- Integrated genomic profiles in cancer cell lines
+- Integrated genomic profiles of cancer cell lines
 - Processed drug response AUC values and category annotations
   
 ### download
-- Information of the source data for drug response AUC values and category annotations 
+- Information on the original datasets for drug response AUC values and category annotations 
 
 ### scripts
 - step1 drug annotation and drug auc integration
