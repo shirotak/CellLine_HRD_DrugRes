@@ -25,5 +25,8 @@ This page provides data and code to reproduce the results of the corresponding p
   
 ---
 ## Citation
-The initial manuscript is available on the bioRxiv preprint server.  
-doi: https://doi.org/10.1101/2023.07.06.547853
+Scientific data 2024 Feb 6;11(1):171  
+Homologous Recombination Deficiency Unrelated to Platinum and PARP Inhibitor Response in Cell Line Libraries  
+Shiro Takamatsu, Kosuke Murakami, Noriomi Matsumura  
+PMID: 38321018, PMCID: PMC10847511  
+DOI: [10.1038/s41597-024-03018-4](https://pubmed.ncbi.nlm.nih.gov/38321018/)
